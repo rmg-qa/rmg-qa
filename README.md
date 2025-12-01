@@ -1,13 +1,13 @@
 <h1> Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>   
 
-Меня зовут Роман. С августа 2024 года я - инженер по тестированию программного обеспечения.
+Меня зовут Роман. С августа 2024 года я - инженер по тестированию ПО.
 На данный момент являюсь тестировщиком ПО в компании "Атвинта".
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/kuzgtu.png"></td><td valign="middle">Кузбасский государственный технический университет им. Т. Ф. Горбачева.</br>Факультет ИИТМА.</br>Инженер сварочных производств/контроля качества.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/yandex.jpg"></td><td valign="middle">Яндекс практикум</br>Курс "Инженер по тестированию: от новичка до автоматизатора" (Python) </td>
-    <tr><td width="30%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">Расширенный курс по автоматизации тестирования на языке Python.</td></tr>
+    <td width="20%" valign="bottom"><img src="/images/kuzgtu.png"></td><td valign="middle">Кузбасский государственный технический университет им. Т. Ф. Горбачева.</br>Факультет ИИТМА.</br>Инженер сварочных производств/контроля качества.</td></tr>
+    <tr><td width="20%" valign="bottom"><img src="/images/yandex.jpg"></td><td valign="middle">Яндекс практикум</br>Курс "Инженер по тестированию: от новичка до автоматизатора" (Python) </td>
+    <tr><td width="20%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">Расширенный курс по автоматизации тестирования на языке Python.</td></tr>
    </tr>
   </table>
   </br>
@@ -64,7 +64,16 @@ Network Analysis Tools:
 ### 1. Диплом онлайн-школы QA-GURU:
 #### Тестирование UI
 Онлайн-магазин "Askona": <a target="_blank" href="https://github.com/rmg-qa/UI_DIPLOM_DESKTOP-MOBILE_ASKON">Дипломный проект тестирования веб-версии онлайн-магазина Askona (UI: Desktop/Mobile)</a></br></br>
-![This is an image](/icons/python.png)![This is an image](/icons/selene.png)![This is an image](/icons/pycharm.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/pytest.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
+<img src="icons/python.png" alt="Логотип" width="10%" />
+<img src="/icons/selene.png" alt="Логотип" width="10%" />
+<img src="/icons/pycharm.png" alt="Логотип" width="10%" />
+<img src="/icons/Selenoid.png" alt="Логотип" width="10%" />
+<img src="/icons/pytest.png" alt="Логотип" width="10%" />
+<img src="/icons/Jenkins.png" alt="Логотип" width="10%" />
+<img src="/icons/Allure_Report.png" alt="Логотип" width="10%" />
+<img src="/icons/AllureTestOps.png" alt="Логотип" width="10%" />
+<img src="/icons/Telegram.png" alt="Логотип" width="10%" />
+<img src="/icons/Jira.png" alt="Логотип" width="10%" />  
 Реализованы UI-автотесты для десктопной/мобильной версии веб-сайта "Askona".</br></br>
 Что особенного:
 
