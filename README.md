@@ -62,55 +62,58 @@ Network Analysis Tools:
 
 # О дипломных проектах
 ### 1. Диплом онлайн-школы QA-GURU:
-#### Тестирование UI
-Онлайн-магазин "Askona": <a target="_blank" href="https://github.com/rmg-qa/UI_DIPLOM_DESKTOP-MOBILE_ASKON">Дипломный проект тестирования веб-версии онлайн-магазина Askona (UI: Desktop/Mobile)</a></br></br>
-<img src="icons/python.png" alt="Логотип" width="10%" />
-<img src="/icons/selene.png" alt="Логотип" width="10%" />
-<img src="/icons/pycharm.png" alt="Логотип" width="10%" />
-<img src="/icons/Selenoid.png" alt="Логотип" width="10%" />
-<img src="/icons/pytest.png" alt="Логотип" width="10%" />
-<img src="/icons/Jenkins.png" alt="Логотип" width="10%" />
-<img src="/icons/Allure_Report.png" alt="Логотип" width="10%" />
-<img src="/icons/AllureTestOps.png" alt="Логотип" width="10%" />
-<img src="/icons/Telegram.png" alt="Логотип" width="10%" />
-<img src="/icons/Jira.png" alt="Логотип" width="10%" />  
-Реализованы UI-автотесты для десктопной/мобильной версии веб-сайта "Askona".</br></br>
-Что особенного:
+#### _Тестирование UI_:
+Онлайн-магазин "Askona": <a target="_blank" href="https://github.com/rmg-qa/UI_DIPLOM_DESKTOP-MOBILE_ASKON">UI: Desktop/Mobile</a></br></br>
+<img src="icons/python.png" alt="Python" width="05%" />
+<img src="/icons/pycharm.png" alt="pycharm" width="05%" />
+<img src="icons/android_studio.png" alt="pycharm" width="05%" />
+<img src="/icons/selene.png" alt="selene" width="05%" />
+<img src="/icons/selenium.png" alt="selenium" width="05%" />
+<img src="/icons/appium_by.png" alt="appium" width="05%" />
+<img src="/icons/browserstack.png" alt="appium" width="05%" />
+<img src="/icons/Selenoid.png" alt="Selenoid" width="05%" />
+<img src="/icons/pytest.png" alt="pytest" width="05%" />
+<img src="/icons/Jenkins.png" alt="Jenkins" width="05%" />
+<img src="/icons/Allure_Report.png" alt="Allure_Report" width="05%" />
+<img src="/icons/AllureTestOps.png" alt="AllureTestOps" width="05%" />
+<img src="/icons/Jira.png" alt="Jira" width="05%" /> 
+<img src="/icons/Telegram.png" alt="Telegram" width="05%" />  </br>
 
-- [x] Page Object
-- [x] Использование pytest.mark.parametrize в автотестах (Desktop)
-- [x] Параметризованная сборка в Jenkins: возможность запускать автотесты либо на десктопной версии браузера, либо на мобильной
-- [x] config.mobile: использование библиотеки pydantic для настройки конфигурации запуска мобильных автотестов в Browserstack, на эмуляторе, либо на реальном девайсе
-- [x] Интеграция с Jenkins
-- [x] Интеграция с ТестОпс
-- [x] Интеграция с Jira
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Задачи на дефекты
+✔️ Реализованы UI-автотесты для десктопной/мобильной версии веб-сайта "Askona".</br></br>
+🚩Что особенного:
 
+- ✅ Page Object
+- ✅ Использование фреймворка Selene  
+- ✅ использование фреймворка Appium 
+- ✅ Использование pytest.mark.parametrize в автотестах (Desktop)  
+- ✅ Степовый подход для описания Allure Step
+- ✅ Параметризованная сборка в Jenkins: возможность запускать автотесты либо на десктопной версии браузера, либо на мобильной
+- ✅ config.mobile: использование библиотеки pydantic для настройки конфигурации запуска мобильных автотестов в Browserstack, на эмуляторе, либо на реальном девайсе
+- ✅ Интеграция с Jenkins
+- ✅ Интеграция с ТестОпс
+- ✅ Интеграция с Jira
+- ✅ Тестпланы авто- и ручного тестирования
+- ✅ Задачи на дефекты
 
-## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
-![This is an image](/icons/python.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
-:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
-:triangular_flag_on_post: Что особенного:
+#### _Тестирование Rest Api_:
+Бесплатный сервис "Petstore": <a target="_blank" href="https://github.com/rmg-qa/API_DIPLOM_PETSTORE">API</a></br></br>
+<img src="icons/python.png" alt="Python" width="05%" />
+<img src="/icons/pycharm.png" alt="pycharm" width="05%" />
+<img src="/icons/requests.png" alt="requests" width="05%" />
+<img src="/icons/jsonschema.png" alt="requests" width="05%" />
+<img src="/icons/pytest.png" alt="pytest" width="05%" />
+<img src="/icons/Jenkins.png" alt="Jenkins" width="05%" />
+<img src="/icons/Allure_Report.png" alt="Allure_Report" width="05%" />
+<img src="/icons/AllureTestOps.png" alt="AllureTestOps" width="05%" />
+<img src="/icons/Jira.png" alt="Jira" width="05%" /> 
+<img src="/icons/Telegram.png" alt="Telegram" width="05%" />  </br>
 
-- [x] Описание модели получаемых данных с помощью библиотеки Lombok
-- [x] Лямбда-подход для описания Allure Step
-- [x] Шаблоны форматирования логов запросов
+✔️ Реализованы автотесты Rest Api на проверку запросов *crud* сущности pets: <a target="_blank" href="https://petstore.swagger.io/#/">Petstore</a></br></br>
+🚩 Что особенного:
 
-
-## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">financisto-mobile-tests</a></br></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
-:heavy_check_mark: Реализованы автотесты мобильного приложения financisto на эмуляторе мобильного устройства.</br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
-- [x] Степовой подход для описания Allure Step
-- [x] Различные файлы конфигураций для запуска тестов
-
-</br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/elSeversk">t.me/elSeversk</a>
+- ✅ использование библиотеки jsonschema, которая позволяет определить ожидаемую структуру JSON-объекта
+- ✅ Степовый подход для описания Allure Step
+- ✅ Шаблоны форматирования логов запросов
 
 
 
