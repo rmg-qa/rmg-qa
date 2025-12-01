@@ -120,33 +120,3 @@
 [![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/1d58ycN7w75Nqli7eUOTF3NM_fYro-0QS/view?usp=drive_link) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romagorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196) 
 
 Почта: gorohovikroman123@yandex.com
-
-
-## Stack & skills:
-Development Tools and Languages:
-
-![Flutter](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python) ![Flutter](https://img.shields.io/badge/-ANDROIDSTUDIO-090909?style=for-the-badge&logo=androidstudio)
-
-Testing Frameworks and Libraries:
-
-![Flutter](https://img.shields.io/badge/-SELENIUM-090909?style=for-the-badge&logo=selenium) ![Flutter](https://img.shields.io/badge/-PYTEST-090909?style=for-the-badge&logo=pytest) ![Flutter](https://img.shields.io/badge/-REQUESTS-090909?style=for-the-badge&logo=python) ![Flutter](https://img.shields.io/badge/-ALLURE-090909?style=for-the-badge&logo=)
-
-Version Control Systems:
-   
-![Flutter](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=github)
-
-Databases and Tools:
-
-![Flutter](https://img.shields.io/badge/-POSTGRES-090909?style=for-the-badge&logo=postgresql)
-
-API Tools and Documentation:
-
-![fLUTTER](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman) ![fLUTTER](https://img.shields.io/badge/-SWAGGER-090909?style=for-the-badge&logo=swagger)
-
-Project Management and Collaboration:
-
-![fLUTTER](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
-
-Network Analysis Tools:
-
-![fLUTTER](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=charles)
