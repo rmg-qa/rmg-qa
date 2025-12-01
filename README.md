@@ -4,9 +4,9 @@
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="15%" valign="bottom"><img src="/images/kuzgtu.png"></td><td valign="middle">Кузбасский государственный технический университет им. Т. Ф. Горбачева.</br>Факультет ИИТМА.</br>Инженер сварочных производств/контроля качества.</td></tr>
+    <td width="15%" valign="bottom"><img src="/images/kuzgtu.png"></td><td valign="middle">Кузбасский государственный технический университет им. Т. Ф. Горбачева. Факультет ИИТМА.</br>Инженер сварочных производств/контроля качества.</td></tr>
     <tr><td width="15%" valign="bottom"><img src="/images/yandex.jpg"></td><td valign="middle">Яндекс практикум</br>Курс "Инженер по тестированию: от новичка до автоматизатора" (Python) </td>
-    <tr><td width="15%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">Расширенный курс по автоматизации тестирования на языке Python.</td></tr>
+    <tr><td width="15%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">QA_GURU</br>Расширенный курс по автоматизации тестирования на языке Python.</td></tr>
    </tr>
   </table>
   </br>
