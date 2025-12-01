@@ -22,8 +22,8 @@
 
 # О дипломных проектах
 ## 1. Диплом онлайн-школы QA-GURU:
-### _Тестирование UI_:
-Онлайн-магазин "Askona": <a target="_blank" href="https://github.com/rmg-qa/UI_DIPLOM_DESKTOP-MOBILE_ASKON">UI: Desktop/Mobile</a></br></br>
+### _Тестирование UI (Desktop/Mobile)_:
+Онлайн-магазин "Askona": <a target="_blank" href="https://github.com/rmg-qa/UI_DIPLOM_DESKTOP-MOBILE_ASKON">UI</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
 <img src="/icons/pycharm.png" alt="pycharm" width="05%" />
 <img src="icons/android_studio.png" alt="pycharm" width="05%" />
