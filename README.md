@@ -11,8 +11,7 @@
   </table>
   </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmg-qa)](https://github.com/rmg-qa/github-readme-stats)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmg-qa)](https://github.com/rmg-qa)
 
 ## Мое резюме и связь
 [![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/1d58ycN7w75Nqli7eUOTF3NM_fYro-0QS/view?usp=drive_link) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romagorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196) 
