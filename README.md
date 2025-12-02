@@ -65,7 +65,7 @@
 - ✅ Использование библиотеки jsonschema, которая позволяет определить ожидаемую структуру JSON-объекта
 - ✅ Степовый подход для описания Allure Step
 - ✅ Шаблоны форматирования логов запросов
-  </br></br></br>
+  </br></br>
 ## 2. Диплом онлайн-школы Yandex Practicum:
 ### _Тестирование UI_:
 Онлайн-конструктор бургера "Stellar Burger": <a target="_blank" href="https://github.com/rmg-qa/Diplom_1">UI</a></br></br>
@@ -107,7 +107,7 @@
 - ✅ Использование параметризации в тестах
 - ✅ Создание отчета о покрытии pytest-cov. Процент покрытия составил 100%
 ![Screenshot](/images/pytest_cov.png)
-
+</br></br>
 ## Мое резюме и связь
 [![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/1d58ycN7w75Nqli7eUOTF3NM_fYro-0QS/view?usp=drive_link) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romagorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196) 
 
