@@ -66,7 +66,7 @@
 - ✅ Степовый подход для описания Allure Step
 - ✅ Шаблоны форматирования логов запросов
   </br></br>
-## 2. Диплом онлайн-школы Яндекс.Практикум:
+## 2. Диплом онлайн-школы Яндекс Практикум:
 ### _Тестирование UI_:
 Онлайн-конструктор бургера "Stellar Burger": <a target="_blank" href="https://github.com/rmg-qa/Diplom_1">UI</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
