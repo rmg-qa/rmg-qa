@@ -9,7 +9,7 @@
     <tr><td width="15%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">QA_GURU</br>Расширенный курс по автоматизации тестирования на языке Python.</td></tr>
    </tr>
   </table>
-
+  </br>
 
 # О дипломных проектах
 ## 1. Диплом онлайн-школы QA-GURU:
