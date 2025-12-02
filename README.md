@@ -83,7 +83,7 @@
 - ✅ Автотесты написаны на "чистом" Selenium, без использования облегчающих код фреймворков
 - ✅ Использование pytest.mark.parametrize в автотестах
 - ✅ Покрыт большой функционал онлайн сервиса
-- ✅ реализованы сложные execute_scripts типа drug_and_drop
+- ✅ Реализованы сложные execute_scripts типа drug_and_drop
 
 ### _Тестирование Rest Api_:
 Протестированы запросы онлайн-конструктора бургера "Stellar Burger": <a target="_blank" href="https://github.com/rmg-qa/Diplom_2">API</a></br></br>
