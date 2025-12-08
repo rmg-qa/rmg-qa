@@ -109,6 +109,6 @@
 ![Screenshot](/images/pytest_cov.png)
 </br></br>
 ## Мое резюме и связь
-[![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/17i5dJsrJHjXmnRYi4_sm0AO4hH0kR4UB/view) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romagorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196) 
+[![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/1IpCWtA6QHqkPWVdxB3p-AUKte0RKMug2/view) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romagorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196) 
 
 Почта: gorohovikroman123@yandex.com
