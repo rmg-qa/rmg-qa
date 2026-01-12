@@ -109,6 +109,5 @@
 </br></br>
 ## Мое резюме и связь
 [![Flutter](https://img.shields.io/badge/-резюме-white?style=for-the-badge&logo=google)](https://drive.google.com/file/d/1YiI35aCJR7NJeBkpcIACi-VYU7Bb58N3/view) [![Flutter](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/romangorohovik) [![Flutter](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk)](https://vk.com/gr196)
-<a href="mailto:gorohovikroman123@yandex.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+
+**Написать письмо:** [gorohovikroman123@yandex.com](mailto:gorohovikroman123@yandex.com)
