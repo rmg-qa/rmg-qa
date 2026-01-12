@@ -13,7 +13,7 @@
 
 # О дипломных проектах
 ## 1. QA-GURU:
-### _Тестирование UI (Desktop/Mobile)_:
+### _UI (Desktop/Mobile)_:
 Онлайн-магазин "Askona": <a target="_blank" href="https://github.com/rmg-qa/UI_DIPLOM_DESKTOP-MOBILE_ASKON">UI</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
 <img src="/icons/pycharm.png" alt="pycharm" width="05%" />
@@ -44,7 +44,7 @@
 - ✅ Интеграция с Jira
 - ✅ Тестпланы авто- и ручного тестирования
 
-### _Тестирование Rest Api_:
+### _Api_:
 Бесплатный сервис "Petstore": <a target="_blank" href="https://github.com/rmg-qa/API_DIPLOM_PETSTORE">API</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
 <img src="/icons/pycharm.png" alt="pycharm" width="05%" />
@@ -66,7 +66,7 @@
 - ✅ Логирование запросов в console/allure-report
   </br></br>
 ## 2. Яндекс Практикум:
-### _Тестирование UI_:
+### _UI_:
 Онлайн-конструктор бургера "Stellar Burger": <a target="_blank" href="https://github.com/rmg-qa/Diplom_1">UI</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
 <img src="/icons/pycharm.png" alt="pycharm" width="05%" />
@@ -82,7 +82,7 @@
 - ✅ Покрыт большой функционал онлайн сервиса
 - ✅ Реализованы сложные execute_scripts типа drug_and_drop
 
-### _Тестирование Rest Api_:
+### _Api_:
 Протестированы запросы онлайн-конструктора бургера "Stellar Burger": <a target="_blank" href="https://github.com/rmg-qa/Diplom_2">API</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
 <img src="/icons/pycharm.png" alt="pycharm" width="05%" />
@@ -97,7 +97,7 @@
 - ✅ Для каждого эндпоинта тесты лежат в отдельном классе.
 - ✅ На этапе Teardown автотеста происходит удаление тестовой сущности.
 
-### _Unit-тесты_:
+### _Unit_:
 ✔️ Протестированы низкоуровневые модули сервиса "Stellar Burger"  .</br>  
 
 🚩 Что особенного:
