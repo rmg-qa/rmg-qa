@@ -44,7 +44,7 @@
 - ✅ Интеграция с Jira
 - ✅ Тестпланы авто- и ручного тестирования
 
-### _Api_:
+### _API_:
 Бесплатный сервис "Petstore": <a target="_blank" href="https://github.com/rmg-qa/API_DIPLOM_PETSTORE">API</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
 <img src="/icons/pycharm.png" alt="pycharm" width="05%" />
@@ -82,7 +82,7 @@
 - ✅ Покрыт большой функционал онлайн сервиса
 - ✅ Реализованы сложные execute_scripts типа drug_and_drop
 
-### _Api_:
+### _API_:
 Протестированы запросы онлайн-конструктора бургера "Stellar Burger": <a target="_blank" href="https://github.com/rmg-qa/Diplom_2">API</a></br></br>
 <img src="icons/python.png" alt="Python" width="05%" />
 <img src="/icons/pycharm.png" alt="pycharm" width="05%" />
