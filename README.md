@@ -5,8 +5,8 @@
 <table width="100%" border='0'>
    <tr> 
     <td width="15%" valign="bottom"><img src="/images/kuzgtu.png"></td><td valign="middle">Кузбасский государственный технический университет им. Т. Ф. Горбачева. Факультет ИИТМА.</br>Инженер сварочных производств/контроля качества.</td></tr>
-    <tr><td width="15%" valign="bottom"><img src="/images/yandex.jpg"></td><td valign="middle">Яндекс практикум</br>Курс "Инженер по тестированию: от новичка до автоматизатора" (Python) <br> <a target="_blank" href="https://drive.google.com/file/d/1A3yE1VLUgI1byy3QfF_QkGzeZBC-s34z/view?usp=sharing">Диплом</a></td>
-    <tr><td width="15%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">QA_GURU</br>Расширенный курс по автоматизации тестирования на языке Python. <br> <a target="_blank" href="">Диплом</a></td></tr>
+    <tr><td width="15%" valign="bottom"><img src="/images/yandex.jpg"></td><td valign="middle">Яндекс практикум</br>Курс "Инженер по тестированию: от новичка до автоматизатора" (Python) </td>
+    <tr><td width="15%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">QA_GURU</br>Расширенный курс по автоматизации тестирования на языке Python.</td></tr>
    </tr>
   </table>
   </br>
