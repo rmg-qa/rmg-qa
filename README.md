@@ -1,11 +1,11 @@
 <h1> Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>   
 
-Меня зовут Роман. С августа 2024 года я - инженер по тестированию ПО.
+Меня зовут Роман. С декабря 2022 года я - инженер по тестированию ПО.
 
 <table width="100%" border='0'>
    <tr> 
     <td width="15%" valign="bottom"><img src="/images/kuzgtu.png"></td><td valign="middle">Кузбасский государственный технический университет им. Т. Ф. Горбачева. Факультет ИИТМА.</br>Инженер сварочных производств/контроля качества.</td></tr>
-    <tr><td width="15%" valign="bottom"><img src="/images/yandex.jpg"></td><td valign="middle">Яндекс практикум</br>Курс "Инженер по тестированию: от новичка до автоматизатора" (Python) <br> <a target="_blank" href="https://drive.google.com/file/d/1A3yE1VLUgI1byy3QfF_QkGzeZBC-s34z/view?usp=sharing">Диплом</a></td>
+    <tr><td width="15%" valign="bottom"><img src="/images/yandex.jpg"></td><td valign="middle">Яндекс практикум</br>Курс "Инженер по тестированию: от новичка до автоматизатора" (Python) <br> <a target="_blank" href="https://drive.google.com/file/d/1A3yE1VLUgI1byy3QfF_QkGzeZBC-s34z/view?usp=sharing"></a></td>
     <tr><td width="15%" valign="bottom"><img src="/images/qa_guru.png"></td><td valign="middle">QA_GURU</br>Расширенный курс по автоматизации тестирования на языке Python. <br> <a target="_blank" href="https://drive.google.com/file/d/1pOFqgUs02PLRtv-bsBdT12E4Z4QuTlXz/view">Диплом</a></td></tr>
    </tr>
   </table>
