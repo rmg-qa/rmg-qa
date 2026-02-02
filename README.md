@@ -1,6 +1,6 @@
 <h1> Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>   
 
-Меня зовут Роман. С декабря 2022 года я - инженер по тестированию ПО.
+Меня зовут Роман. С августа 2024 года я - инженер по тестированию ПО.
 
 <table width="100%" border='0'>
    <tr> 
